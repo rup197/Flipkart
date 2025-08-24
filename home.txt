@@ -1,3 +1,11 @@
+<<<<<<< HEAD
 Hi i am rupali
 2
 3
+=======
+i am john 
+2
+3
+4
+
+>>>>>>> john
